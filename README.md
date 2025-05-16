@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 My name is Dylan I'm 25 and I’m currently Junior Developer<br>🤝 I’m looking to work in web development<br>💬 Ask me about everything you want<br>⚡After two years at Epitech Lille I decided to focus on web development
+🔭 My name is Dylan I'm 27 and I’m currently Junior Developer<br>🤝 I’m looking to work in web development<br>💬 Ask me about everything you want<br>⚡After two years at Epitech Lille I decided to focus on web development
 
 
 ## 🌐 Socials:
